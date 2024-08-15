@@ -1,0 +1,4 @@
+使用步骤：
+	1.	将脚本保存到Linux服务器：将上面的脚本复制并保存到你的Linux服务器，例如保存为import_sql.sh。
+	2.	修改权限：确保脚本可执行，运行chmod +x import_sql.sh。
+	3.	运行脚本：在终端中执行脚本：./import_sql.sh。
